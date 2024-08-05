@@ -1,20 +1,20 @@
 //requirements: 
 
-Make sure you have Node.js installed. You can verify this by running:
+Make sure you have Node.js installed. Verify this by running:
 
 node -v
 
-Ensure you have the necessary dependencies installed. In your project root directory, run:
+Ensure you have the necessary dependencies installed. if you need, run:
 
 npm install
 
 // Commands:
 
-To run the tests in Headless Mode, use the following command:
+To run the tests in Headless Mode, run:
 
 npx cypress run 
 
-To run the test in Interactive Mode
+To run the test in Interactive Mode, run:
 
 npx cypress open 
 
