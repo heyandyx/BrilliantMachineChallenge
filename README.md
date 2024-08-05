@@ -22,6 +22,5 @@ npx cypress open
 
 //observation: 
 
-The website used for automating UI elements has some kind of vulnerability, where it is not possible to run more than one "it" in succession
-
-because the site returns a 401 error on subsequent requests, which is an error not related to the code. Due to this, I grouped all the assertions within the same suite.
+The website used for automating UI elements has some kind of vulnerability, where it is not possible to run more than one "it" in succession because the site returns a 401 error on subsequent requests,
+which is an error not related to the code. Due to this, I grouped all the assertions within the same suite.
