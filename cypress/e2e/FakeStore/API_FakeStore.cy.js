@@ -1,4 +1,4 @@
-describe('API Test for Fake Store API', () => {
+describe('API Test for Fake Store', () => {
 
     it('should find and count objects with specific properties', () => {
         // Definindo a URL da API

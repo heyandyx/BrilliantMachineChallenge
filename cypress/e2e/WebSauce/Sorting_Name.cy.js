@@ -1,5 +1,5 @@
-import LoginPage from '../pages/LoginPage';
-import InventoryPage from '../pages/InventoryPage';
+import LoginPage from '../../pages/LoginPage';
+import InventoryPage from '../../pages/InventoryPage';
 
 describe('Sauce Demo Tests', () => {
   before(() => {
